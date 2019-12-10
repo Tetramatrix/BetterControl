@@ -1,0 +1,10 @@
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\bin\Release\BetterControl.dll
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\bin\Release\BetterControl.pdb
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\RangeSlider.baml
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\RangeSlider.g.cs
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\BetterControl_MarkupCompile.cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\BetterControl.g.resources
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\BetterControl.Properties.Resources.resources
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\BetterControl.csproj.GenerateResource.Cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\BetterControl.dll
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Release\BetterControl.pdb

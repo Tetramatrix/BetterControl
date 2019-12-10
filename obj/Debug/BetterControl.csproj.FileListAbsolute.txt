@@ -1,0 +1,11 @@
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl.csprojResolveAssemblyReference.cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\RangeSlider.baml
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\RangeSlider.g.cs
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl.csproj.GenerateResource.Cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl_MarkupCompile.cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl.g.resources
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl.Properties.Resources.resources
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\bin\Debug\BetterControl.dll
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\bin\Debug\BetterControl.pdb
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl.dll
+D:\Users\Dokumente\Visual Studio 2015\Projects\BetterControl\obj\Debug\BetterControl.pdb

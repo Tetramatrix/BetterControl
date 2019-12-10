@@ -1,0 +1,16 @@
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\bin\Release\UserControlFun.exe
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\bin\Release\UserControlFun.pdb
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun.csprojResolveAssemblyReference.cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\RangeSlider.baml
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\RangeSlider.g.cs
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\Window1.g.cs
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\App.g.cs
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun_MarkupCompile.cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun_MarkupCompile.lref
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\Window1.baml
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun.g.resources
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun.Properties.Resources.resources
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun.csproj.GenerateResource.Cache
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun.exe
+D:\Users\Dokumente\Visual Studio 2015\Projects\userControlFun\obj\Release\UserControlFun.pdb
